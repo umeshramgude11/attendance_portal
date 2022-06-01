@@ -1,7 +1,7 @@
 # ![Laravel Example App](logo.png)
 
 
- ### This is Attendance portal for companies, create by using laravel  [Attenance Portal]([https://github.com/gothinkster/realworld-example-apps](https://github.com/umeshramgude11/attendance_portal.git)) 
+ ### This is Attendance portal for companies, create by using laravel  [Attenance Portal](https://github.com/umeshramgude11/attendance_portal.git) 
 
 
 ----------
@@ -15,7 +15,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone git@github.com:umeshramgude11/attendance_portal.git
 
 Switch to the repo folder
 

@@ -1,7 +1,7 @@
 # ![Laravel Example App](logo.png)
 
 
- ### This is Attendance portal for companies, create by using laravel  [Attenance Portal](https://github.com/gothinkster/realworld-example-apps) 
+ ### This is Attendance portal for companies, create by using laravel  [Attenance Portal]([https://github.com/gothinkster/realworld-example-apps](https://github.com/umeshramgude11/attendance_portal.git)) 
 
 
 ----------
